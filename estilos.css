@@ -15,9 +15,8 @@ h1{
     width: max-content;
 }
 
-footer{
-    border: 10px solid blue;
+.header{
+    border:2px solid red;
     width: max-content;
-    padding: 10px;
-    margin-top:20px;
+    margin-bottom: 10px;
 }
