@@ -11,12 +11,13 @@ h1{
 }
 
 .cuadro{
-    border:2px solid red;
-    width: max-content;
+    border:5px solid red;
+    width: 500px;
+    padding:10px;
 }
 
 .header{
-    border:5px solid red;
+    border:5px solid yellow;
     width: 500px;
     margin-bottom: 10px;
     padding:10px;
