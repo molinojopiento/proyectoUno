@@ -12,12 +12,12 @@ h1{
 
 .cuadro{
     border:2px solid red;
-    width: 500px;
+    width: max-content;
 }
 
-.header{
-    border:5px solid red;
-    width: 500px;
-    margin-bottom: 10px;
-    padding:10px;
+footer{
+    border: 10px solid blue;
+    width: max-content;
+    padding: 10px;
+    margin-top:20px;
 }
